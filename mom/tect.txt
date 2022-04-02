@@ -1,4 +1,0 @@
-string load
-
-
-down arrow
